@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "name": "Iron Fitness Center",
+    "price": "$2000 / month",
+    "description": "Affordable gym for beginners and regular fitness enthusiasts.",
+    "features": ["Cardio Zone", "Free Weights", "Yoga Classes"]
+  },
+  {
+    "id": "002",
+    "name": "Powerhouse Gym",
+    "price": "$3500 / month",
+    "description": "Premium gym with advanced equipment and group classes.",
+    "features": ["Cardio Machines", "Swimming Pool", "Steam Room", "Zumba"]
+  },
+  {
+    "id": "003",
+    "name": "Flex Zone",
+    "price": "$1500 / month",
+    "description": "Budget-friendly gym focused on strength and crossfit training.",
+    "features": ["Weight Training", "Crossfit Area", "Personal Coaching"]
+  }
+]
